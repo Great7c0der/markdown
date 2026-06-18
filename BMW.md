@@ -72,7 +72,7 @@ BMW M vehicles are engineered by **BMW M GmbH**, BMW's motorsport division.
 - BMW M3 Touring
 - BMW M4 Coupe
 - BMW M4 Convertible
-- BMW M5
+- BMW M5 sv
 - BMW M8 Coupe
 - BMW M8 Competition Coupe
 - BMW M8 Convertible
